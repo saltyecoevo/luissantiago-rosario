@@ -102,10 +102,6 @@ coordinates = {latitude = "30.411306", longitude = "-91.176489"}
 # Directions for visitors to locate you.
 directions = "Enter Life Sciences Annex Building and take the stairs to Office A357"
 
-# Office hours
-# A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = Available upon request
-
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
 
