@@ -18,7 +18,7 @@ organizations:
   url: "https://www.lsu.edu/science/biosci/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:Evolutionary ecologist interested in the ecology of sodium and its effect on consumer's performance.
+bio: Evolutionary ecologist interested in the ecology of sodium and its effect on consumer's performance.
 
 interests:
 - Intersection between ecology and evolution
